@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/terminal.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+    background: rgba(255, 254, 254, 0.7);
+}
+
+h1 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.card {
+    background: rgba(255, 254, 254, 0.7);
+}
+
+.card-header {
+    font-weight: bolder;
+    color: white;
+    background: #1D1D1D;
+}
+
